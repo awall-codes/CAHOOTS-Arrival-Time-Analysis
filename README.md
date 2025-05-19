@@ -3,6 +3,12 @@ Anna Wallin's project for ADS4SJ led by Professor Rori Rohlfs.
 
 ### Overview of research goals
 
+### Dataset used 
+Computer-Aided Dispatch (CAD) call data from Police Dept in Eugene, Oregon.
+
+Link can be found here: 
+
+
 ### Running the scripts
 I have 3 scripts that can be used to replicate my data science process
 
