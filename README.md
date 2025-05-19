@@ -12,7 +12,7 @@ Link can be found here:
 ### Running the scripts
 I have 3 scripts that can be used to replicate my data science process
 
-Preprocessing: script I used to preprocess the CAD data set can be found here -> 
+Preprocessing: script I used to preprocess the CAD data set can be found here -> data_clean_script.py
 
 Statistical analysis: script I used to deploy my statistical methods to assess my data can be found here -> 
 
