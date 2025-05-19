@@ -1,2 +1,12 @@
 # CAHOOTS_priority_and_response
-Project for ADS4SJ
+Anna Wallin's project for ADS4SJ led by Professor Rori Rohlfs.
+
+### Overview of research goals
+
+### Running the scripts
+I have 3 scripts that can be used to replicate my data science process
+
+Preprocessing: script I used to preprocess the CAD data set can be found here -> 
+Statistical analysis: script I used to deploy my statistical methods to assess my data can be found here -> 
+Statistical modelling: script I used for my graphs/models can be found here -> 
+
