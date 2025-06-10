@@ -25,5 +25,5 @@ Statistical analysis: Script I used to deploy my statistical methods to assess m
 Statistical modelling: Script I used for my graphs/models to visually assess data 
 
 ## Final Report
-A report of my data analysis and discussion can be found at this link here -> 
+A report of my data analysis and discussion can be found at this link here -> [Wallin Final Project Report.pdf](https://github.com/user-attachments/files/20665740/Wallin.Final.Project.Report.pdf)
 
