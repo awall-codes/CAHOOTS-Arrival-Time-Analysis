@@ -10,5 +10,6 @@ datetime
 
 ## Steps to run the data:
 
-- First run the data prepping script which includes directions on how to download the csv file
-- Next, run the 
+- First run the data prepping script which includes directions on how to download the CSV file.
+- Next, run the arrival_time script which will indicate how to calculate the arrival times and group up the priority levels in the CAD dataset
+- Lastly, 
