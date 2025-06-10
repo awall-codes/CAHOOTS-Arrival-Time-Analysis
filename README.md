@@ -1,13 +1,20 @@
-# HOW PROMPTY DOES CAHOOTS ARRIVE BASED ON CALL PRIORITY & VAN AVAILABILITY? 
+# How Promptly Does CAHOOTS Arrive Based on Call Priority & Van Availability? 
+
 Anna Wallin's project for ADS4SJ led by Professor Rori Rohlfs.
 
-### Overview of research questions:
+## Context for Research 
+
+- The following research will investigate the mobile response team Crisis Helping Out on the Streets (CAHOOTS) which has served the Eugene/Springfield, Oregon area.
+- Anecdotal evidence in the community suggests that CAHOOTS teams often take a long time to arrive at cases, limiting their effectiveness at serving the community.
+- Is CAHOOTS still functioning as an adequate crisis response team despite the logistical constraints of only having 2 vans?
+
+
+### Research question:
 How does the priority of a call and the availability of the CAHOOTS team influence the CAHOOTS arrival time to a case? 
 
 
 ##### Dataset used 
 Computer-Aided Dispatch (CAD) call data from Police Dept in Eugene, Oregon.
-
 
 
 ### Running the scripts
