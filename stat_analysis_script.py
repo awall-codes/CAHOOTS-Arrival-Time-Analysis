@@ -8,6 +8,12 @@ high = filtered_cad[filtered_cad['Priority_Level'] == 'High']['Arrival_Time']
 t_stat, p_val = ttest_ind(low, high, equal_var=False)
 print(f"Welch's t-test: t = {t_stat:.2f}, p = {p_val:.4f}")
 
+## Spearman test to see correlation between call priority and response time
+from scipy.stats import spearmanr
+
+corr, p_corr = spearmanr(filtered_cad['Call_Priority'], filtered_cad['Arrival_Time'])
+print(f"Spearman correlation between Call Priority and Response Time: {corr:.3f} (p = {p_corr:.5f})")
+
 
 ## T test to assess difference in arrival times across van availabilities
 
