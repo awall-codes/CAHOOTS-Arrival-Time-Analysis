@@ -6,13 +6,13 @@ These scripts are used for the data analysis process for analyzing the Eugene Po
 
 The data analysis process relies on the following Python packages:
 
-# Data Visualization:
+##### Data Visualization:
 
 - 'WordCloud'
 - 'Matplot.lib'
 - 'Seaborn'
 
-# Statistical Analysis:
+#### Statistical Analysis:
 
 - 'scipy.stats'
 - 'pinguin'
