@@ -19,17 +19,11 @@ Computer-Aided Dispatch (CAD) call data from Police Dept in Eugene, Oregon.
 
 ### Running the scripts
 
-I have 5 scripts that can be used to replicate my data science process:
+I have 2 folders to follow along with my data cleaning and analysis process.
 
-Preprocessing: script I used to pre-process the CAD dataset 
+Preprocessing: Find the script I used to pre-process the CAD dataset here: [scripts](./scripts)
 
-Arrival Time: Function to see how long it took for a CAHOOTS van to arrive to a scene
-
-Van Availability: Function created to assess if a CAHOOTS van was available upon call time
-
-Statistical analysis: Script I used to deploy my statistical methods to assess my data 
-
-Statistical modelling: Script I used for my graphs/models to visually assess data 
+Data analysis: Find the script I used to analyze the CAHOOTS dataset here: [data_analysis](./data_analysis)
 
 ## Final Report
 A report of my data analysis and discussion can be found at this link here -> [Wallin Final Project Report.pdf](https://github.com/user-attachments/files/20665740/Wallin.Final.Project.Report.pdf)
