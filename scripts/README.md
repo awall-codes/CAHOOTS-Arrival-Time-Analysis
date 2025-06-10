@@ -1,8 +1,8 @@
 ## Data Prepping Scripts
 
-These scripts are used for the data prepping process for analyzing the Eugene Police Department (PD) CAD dataset from 2014–2022.
+These scripts are used for the data prepping process for analyzing the Eugene Police Department CAD dataset from 2014–2022.
 
-### Dependencies
+### Packages Used
 
 The data cleaning process relies on the following Python packages:
 
@@ -12,7 +12,7 @@ The data cleaning process relies on the following Python packages:
 
 ### Dataset
 
-The dataset can be accessed via the Eugene PD CAD dataset (2014–2022). Instructions on how to obtain and prepare this data are included in the first script.
+The dataset can be accessed via the Eugene PD CAD dataset (2014–2022). This data can be accessed through requests to the police department although is not able to be linked in this GitHub. 
 
 ### Steps to Run the Data Prepping Scripts
 
