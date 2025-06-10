@@ -16,13 +16,13 @@ The dataset can be accessed via the Eugene PD CAD dataset (2014–2022). This da
 
 ### Steps to Run the Data Prepping Scripts
 
-1. **[data_prep.py](./scripts/data_prep.py)**  
+1. **[data_prep.py](./data_prep.py)**  
    This script contains instructions on how to download and clean the raw CSV data.
 
-2. **[arrival_time.py](./scripts/arrival_time.py)**  
+2. **[arrival_time.py](./arrival_time.py)**  
    Calculates officer arrival times and categorizes priority levels in the CAD dataset.
 
-3. **[van_avail.py](./scripts/van_avail.py)**  
+3. **[van_avail.py](./van_avail.py)**  
    Determines CAHOOTS van availability at the time each call comes in.
 
 ## Next Steps
