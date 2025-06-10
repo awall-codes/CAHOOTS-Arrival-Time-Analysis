@@ -13,7 +13,7 @@ Anna Wallin's project for ADS4SJ led by Professor Rori Rohlfs.
 How does the priority of a call and the availability of the CAHOOTS team influence the CAHOOTS arrival time to a case? 
 
 
-##### Dataset used 
+### Dataset used 
 Computer-Aided Dispatch (CAD) call data from Police Dept in Eugene, Oregon.
 
 
@@ -25,6 +25,6 @@ Preprocessing: Find the script I used to pre-process the CAD dataset here: [scri
 
 Data analysis: Find the script I used to analyze the CAHOOTS dataset here: [data_analysis](./data_analysis)
 
-## Final Report
+### Final Report
 A report of my data analysis and discussion can be found at this link here -> [Wallin Final Project Report.pdf](https://github.com/user-attachments/files/20665740/Wallin.Final.Project.Report.pdf)
 
